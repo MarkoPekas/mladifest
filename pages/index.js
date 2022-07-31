@@ -9,6 +9,9 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div>
+      <Head>
+        <title>Mladifest Međugorje | Međunarodni Festival Mladih</title>
+      </Head>
       <Header />
       <div className='min-h-screen'>
         <Hero />
