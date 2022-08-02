@@ -51,7 +51,7 @@ const raspored = {
                 time: '18:00'
             },{
                 event: 'Euharistija',
-                time: '18:00'
+                time: '19:00'
             },{
                 event: 'Procesija s Gospinim kipom i klanjanje pred Presvetim',
                 time: '20:30 - 21:30'
@@ -78,7 +78,7 @@ const raspored = {
                 time: '18:00'
             },{
                 event: 'Euharistija',
-                time: '18:00'
+                time: '19:00'
             },{
                 event: 'Meditacija sa svijećama i molitva pred Križem',
                 time: '20:30 - 21:30'
@@ -105,14 +105,14 @@ const raspored = {
                 time: '18:00'
             },{
                 event: 'Euharistija',
-                time: '18:00'
+                time: '19:00'
             },{
                 event: 'Predstava zajednice Cenacolo',
                 time: '21:15'
             },
         ]
     },
-    cetvrtak: {
+    petak: {
         date: '5. 8. 2022.',
         events: [
             {
@@ -132,7 +132,7 @@ const raspored = {
                 time: '18:00'
             },{
                 event: 'Euharistija',
-                time: '18:00'
+                time: '19:00'
             },{
                 event: 'Klanjanje pred Presvetim',
                 time: '20:30 - 21:30'
